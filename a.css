@@ -1,0 +1,43 @@
+h2{
+  text-align: center;
+  color:black;
+}
+h1{
+  text-align: center;
+  color: green;
+}
+.abc {
+  color: orange;
+}
+.def{
+  color:green;
+}
+.lmn{
+  color:red;
+}
+.xy{
+  color:blue;
+}
+div{
+  width: 140pt;
+  padding: 5pt;
+  margin: 10pt;
+  border: 1px black;
+  font-size: 16ft;
+}
+
+.yellowblack{
+  background-color:yellow;
+}
+.blueblack{
+  background-color:lightblue;
+}
+canvas{
+  width: 200px;
+  height: 100px;
+  border: 1px solid #c3c3c3;
+}
+canvas{
+  height: 200px;
+  border: 1px solid lightgray;
+}
